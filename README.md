@@ -1,5 +1,5 @@
 
-BLOG GENERATOR WITH LLAMA MODEL
+BLOG GENERATOR WITH LIAMA MODEL
 
 This project utilizes the Llama Model for generating blog content. It takes input text, the number of words, and parameters for blog style, language, and tone to produce blog-like responses.
 
