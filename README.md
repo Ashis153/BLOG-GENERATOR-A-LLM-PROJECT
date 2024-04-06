@@ -1,6 +1,10 @@
 
 BLOG GENERATOR WITH LIAMA MODEL
 
+![Blog Generator and 2 more pages - Personal - Microsoft​ Edge 28-03-2024 22_37_27](https://github.com/Ashis153/BLOG-GENERATOR-A-LLM-PROJECT/assets/153770981/7749a518-a608-4cbc-a0c9-d3b62adf885f)
+
+
+
 This project utilizes the Llama Model for generating blog content. It takes input text, the number of words, and parameters for blog style, language, and tone to produce blog-like responses.
 
 DESCRIPTION
